@@ -1,0 +1,7 @@
+{
+    "signal": "SIGTERM",
+    "ext": "ts",
+    "ignore": [],
+    "exec": "ts-node  --files src/server.ts"
+  }
+  
